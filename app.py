@@ -1,3 +1,4 @@
+# KR2: Obrazumov
 import os
 import socket
 
